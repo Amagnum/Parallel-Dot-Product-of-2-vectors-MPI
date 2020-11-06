@@ -13,3 +13,15 @@ Let **vector B** be
 
 **Output:**
 >[ 1.0 + 4.0 + 9.0 + 16.0 + 25.0 + 36.0 + 49.0 + 64.0 ] = 204.0
+
+<h4> Partition Approach </h4>
+
+![alt approach](https://github.com/Amagnum/Dot-Product-of-2-vectors-MPI/blob/main/img/approach.png?raw=true)
+
+<hr>
+
+Compile & run the code:
+```
+$ mpic++ main.cpp -o exc
+$ mpirun -np 4 exc
+```
