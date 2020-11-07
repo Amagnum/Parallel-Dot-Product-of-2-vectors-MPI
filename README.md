@@ -1,6 +1,6 @@
 # Dot Product of 2 Vectors using OpenMPI | Multiprocessing | Parallel Computing
 
-Computing the vector-vector multiplication on p processors using block-striped partitioning for uniform data distribution. <p>
+MPI code for computing the dot product of vectors on p processors using block-striped partitioning for uniform data distribution. <p>
 Assuming that the vectors are of size n and p is number of processors used and n is a multiple of p.
 
 >Algebraically, the dot product is the sum of the products of the corresponding entries of the two sequences of numbers.
