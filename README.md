@@ -20,6 +20,9 @@ Let **vector B** be
 
 <hr>
 
+### Results:
+![alt approach](https://github.com/Amagnum/Dot-Product-of-2-vectors-MPI/blob/main/img/Dot%20Product%20of%202%20Vectors.png)
+
 ### Compile & run the code:
 ```
 $ mpic++ main.cpp -o exc
