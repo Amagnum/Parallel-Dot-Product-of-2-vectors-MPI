@@ -20,7 +20,7 @@ Let **vector B** be
 
 <hr>
 
-Compile & run the code:
+### Compile & run the code:
 ```
 $ mpic++ main.cpp -o exc
 $ mpirun -np 4 exc
